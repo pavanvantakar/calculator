@@ -2,7 +2,7 @@ p{
     text-align: center;
 }
 h1{
-    color: #143e49;
+    color: #a4c3ca;
 }
 h1{
     text-align: center;
@@ -13,5 +13,9 @@ img {
   margin-right: auto;
 }
 #friends{
-    color: blueviolet;
+    color: rgb(151, 97, 139);
+}
+body{background-color:#1e1e1e;}
+button{
+    color: black;
 }
